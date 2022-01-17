@@ -1,2 +1,2 @@
-# my_pygame
-My MFTI labs 
+
+#  My MFTI labs!
